@@ -1,7 +1,7 @@
 # information
 > Files can always be changed in a secret way. Can you find the flag?
 
-we given a file `cat.jpg`, we can just check the metada using `exiftool`
+we are given a file `cat.jpg`, we can just check the metada using `exiftool`
 ```
 ❯ exiftool cat.jpg 
 ExifTool Version Number         : 13.50
