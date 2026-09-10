@@ -58,4 +58,6 @@ So first of all we need to understand how RSA works:
 
 based on the hint we should use the weak randomness in prime generation, but because the N is not a big number, so instead we find the p and q by using that we can just use factordb, so heres the flag
 
+[Solution](soln.ipynb)
+
 FLAG: `picoCTF{tw0_1$_pr!m305af7255}`
